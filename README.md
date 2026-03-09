@@ -9,7 +9,7 @@
 本仓库还包含一个 AstrBot 插件 `astrbot_plugin_jm_send`，可在 QQ 中通过指令触发下载并发送文件。
 
 ## 功能说明
-
+记得改json文件的路径
 ### 1) MCP 工具
 
 工具名：`download_jm_album_pdf`
