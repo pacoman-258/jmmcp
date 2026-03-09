@@ -56,7 +56,7 @@ uv run python main.py
 ## MCP Server 配置（JSON）
 
 仓库已提供示例文件：
-- [mcp-server.json](d:/LYJ/2. 02_学习提升/third_round/jmmcp/mcp-server.json)
+- [mcp-server.json]
 
 你可以直接复制其中的 `mcpServers.jmmcp` 配置到支持 MCP 的客户端（如 Cherry Studio / Cline / Cursor 等）。
 
@@ -86,37 +86,7 @@ uv run python main.py
 - `/jm 350234`
 - `/jm_last`
 
-## 发布到 GitHub（一步步）
 
-下面以“新建仓库并推送”为例：
-
-1. 初始化和检查（如果你还没初始化）
-```powershell
-git init
-git status
-```
-
-2. 配置远端（把 `<your-repo-url>` 替换成你的仓库地址）
-```powershell
-git remote add origin <your-repo-url>
-```
-
-3. 提交代码
-```powershell
-git add .
-git commit -m "feat: jmcomic mcp server with astrbot plugin"
-```
-
-4. 推送到 GitHub 主分支
-```powershell
-git branch -M main
-git push -u origin main
-```
-
-5. 在 GitHub 页面补充仓库信息
-- 设置仓库可见性（Public/Private）
-- 添加 Topics（如 `mcp`, `python`, `astrbot`, `qq-bot`, `jmcomic`）
-- 如需发版，创建 `Release` 并上传插件 zip
 
 ## 免责声明
 
