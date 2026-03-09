@@ -20,15 +20,15 @@ AstrBot plugin for JM download and QQ file sending.
 ## Recommended Config
 
 - `mcp_command`
-  - `C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\uvx.exe`
+  - `C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\uvx.exe`（你的路径）
 - `mcp_args`
-  - `["--directory","D:\\LYJ\\2. 02_学习提升\\third_round\\jmmcp","--from","mcp[cli]","--with","jmcomic>=2.6.15","--with","img2pdf>=0.5.1","mcp","run","main.py","--transport","stdio"]`
+  - `["--directory","在你电脑上的路径\\jmmcp","--from","mcp[cli]","--with","jmcomic>=2.6.15","--with","img2pdf>=0.5.1","mcp","run","main.py","--transport","stdio"]`
 - `mcp_cwd`
-  - `D:\\LYJ\\2. 02_学习提升\\third_round\\jmmcp`
+  - `在你电脑上的路径\\jmmcp`
 - `mcp_tool_name`
   - `download_jm_album_pdf`
 - `mcp_env`
-  - `{"UV_CACHE_DIR":"D:\\LYJ\\2. 02_学习提升\\third_round\\jmmcp\\.uv-cache","UV_TOOL_DIR":"D:\\LYJ\\2. 02_学习提升\\third_round\\jmmcp\\.uv-tools"}`
+  - `{"UV_CACHE_DIR":"在你电脑上的路径\\.uv-cache","UV_TOOL_DIR":"在你电脑上的路径\\jmmcp\\.uv-tools"}`
 
 ## Important Options
 
