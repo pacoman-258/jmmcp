@@ -1,14 +1,14 @@
 {
   "mcpServers": {
     "jmmcp": {
-      "command": "D:\\LYJ\\2. 02_学习提升\\third_round\\jmmcp\\.venv\\Scripts\\python.exe",
+      "command": "在你电脑上的路径\\jmmcp\\.venv\\Scripts\\python.exe",
       "args": [
         "main.py"
       ],
-      "cwd": "D:\\LYJ\\2. 02_学习提升\\third_round\\jmmcp",
+      "cwd": "在你电脑上的路径\\third_round\\jmmcp",
       "env": {
-        "UV_CACHE_DIR": "D:\\LYJ\\2. 02_学习提升\\third_round\\jmmcp\\.uv-cache",
-        "UV_TOOL_DIR": "D:\\LYJ\\2. 02_学习提升\\third_round\\jmmcp\\.uv-tools"
+        "UV_CACHE_DIR": "在你电脑上的路径\\jmmcp\\.uv-cache",
+        "UV_TOOL_DIR": "在你电脑上的路径\\third_round\\jmmcp\\.uv-tools"
       }
     }
   }
