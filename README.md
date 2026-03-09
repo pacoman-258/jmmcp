@@ -48,7 +48,7 @@
 
 ```powershell
 uv sync
-uv run python main.py
+uv run main.py
 ```
 
 服务启动后通过 `stdio` 等待 MCP 客户端调用。
