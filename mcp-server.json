@@ -5,10 +5,10 @@
       "args": [
         "main.py"
       ],
-      "cwd": "在你电脑上的路径\\third_round\\jmmcp",
+      "cwd": "在你电脑上的路径\\jmmcp",
       "env": {
         "UV_CACHE_DIR": "在你电脑上的路径\\jmmcp\\.uv-cache",
-        "UV_TOOL_DIR": "在你电脑上的路径\\third_round\\jmmcp\\.uv-tools"
+        "UV_TOOL_DIR": "在你电脑上的路径\\jmmcp\\.uv-tools"
       }
     }
   }
