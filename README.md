@@ -75,7 +75,7 @@ uv run main.py
 ## AstrBot 插件说明
 
 目录：
-- [astrbot_plugin_jm_send](d:/LYJ/2. 02_学习提升/third_round/jmmcp/astrbot_plugin_jm_send)
+- [astrbot_plugin_jm_send]
 
 插件用途：
 - QQ 指令触发下载
